@@ -4,13 +4,17 @@ public class Employee {
     private String name;
     private int age;
     private Sex sex;
-
     private int salary;
 
-    String employee;
-    public boolean isSameName() {
-        if (employee.equals(name))
-    return true};
+
+    public boolean isSameName(Employee employee) {
+        if (name.equals(employee.getName())) {
+            return true;
+        }
+        return false;
+    }
+
+
     public String getName() {
         return name;
     }
@@ -41,9 +45,5 @@ public class Employee {
 
     public void setSalary(int salary) {
         this.salary = salary;
-    }
-
-    public String getEmployee() {
-        return employee;
     }
 }

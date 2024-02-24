@@ -1,2 +1,4 @@
-package TaskBySasha;public class TestTest {
+package TaskBySasha;
+
+public class TestTest {
 }

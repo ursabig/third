@@ -4,24 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a670d3-7345-4152-be09-e98d1a4952ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third.iml" afterDir="false" />
+    <list default="true" id="e5a670d3-7345-4152-be09-e98d1a4952ec" name="Changes" comment="my automation project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW5_1_1_SumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_1_SumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW5_1_2_MaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_2_MaxValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW5_1_4_Avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_4_Avg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW5_1_5_SumElementsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_5_SumElementsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW5_1_6_MaxValue2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_6_MaxValue2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW5_1_7CountElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_7CountElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork6Extra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6Extra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork6_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork6_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork6_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork6_2Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_2Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkCodeWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkCodeWars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkCodeWarsCountingShips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkCodeWarsCountingShips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWorkCodeWarsSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkCodeWarsSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5_2dArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5_2dArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6_2Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6_2Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Sex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/One/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/One/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/One/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/One/Apartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/One/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/One/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/Two/Blin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Two/Blin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/Two/Kachalka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Two/Kachalka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/TestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Aitishnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Aitishnik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Assessment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Assessment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sasha/Sasha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sasha/Sasha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sasha/SashaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sasha/SashaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third.iml" beforeDir="false" afterPath="$PROJECT_DIR$/third.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +60,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ursabig&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="785ea6df-11ce-4318-9cbd-269533d29165" />
+        <option name="url" value="https://github.com/ursabig/first" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -49,73 +94,147 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.First.executor": "Run",
-    "Application.HomeWork4.executor": "Run",
-    "Application.HomeWork4_1.executor": "Debug",
-    "Application.HomeWork4_2.executor": "Run",
-    "Application.HomeWork4_3.executor": "Debug",
-    "Application.Lesson4.executor": "Run",
-    "Application.SecondHW.executor": "Run",
-    "Application.Third.executor": "Run",
-    "Application.ThirdHW.executor": "Run",
-    "Application.ThirdHomeWorkPart2.executor": "Run",
-    "Application.ThirdHomeWorkPart3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.First.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW5_1_2_MaxValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW5_1_6_MaxValue2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW5_1_7CountElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork4_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork5_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork5_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork5_1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork5_1_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork5_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork6_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork6_1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWorkCodeWars.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.HomeWorkCodeWarsCountingShips.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWorkCodeWarsSecond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWorkCodeWarsThird.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWorkTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWorkTask3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kachalka.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson5_2dArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SashaMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondHW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskBySasha.assesment.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Third.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThirdHW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThirdHomeWorkPart2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThirdHomeWorkPart3.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.HomeWork4_3">
-    <configuration name="HomeWork3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork3_3" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TaskBySasha.assesment.Main">
+    <configuration name="HomeWorkTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeWork.HomeWorkTask1" />
       <module name="third" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork4_1" />
+    <configuration name="HomeWorkTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeWork.HomeWorkTask2" />
       <module name="third" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork4_2" />
+    <configuration name="HomeWorkTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeWork.HomeWorkTask3" />
       <module name="third" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork4_3" />
+    <configuration name="Kachalka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.Two.Kachalka" />
       <module name="third" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.Two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4" />
+    <configuration name="TaskBySasha.assesment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskBySasha.assesment.Main" />
       <module name="third" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaskBySasha.assesment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeWork4_3" />
-        <item itemvalue="Application.HomeWork4_1" />
-        <item itemvalue="Application.HomeWork4_2" />
-        <item itemvalue="Application.Lesson4" />
-        <item itemvalue="Application.HomeWork3_3" />
+        <item itemvalue="Application.TaskBySasha.assesment.Main" />
+        <item itemvalue="Application.HomeWorkTask3" />
+        <item itemvalue="Application.HomeWorkTask2" />
+        <item itemvalue="Application.HomeWorkTask1" />
+        <item itemvalue="Application.Kachalka" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
         <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
       </set>
     </attachedChunks>
@@ -129,7 +248,39 @@
       <option name="presentableId" value="Default" />
       <updated>1706280309109</updated>
     </task>
+    <task id="LOCAL-00001" summary="my automation project">
+      <option name="closed" value="true" />
+      <created>1707239726639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707239726639</updated>
+    </task>
+    <task id="LOCAL-00002" summary="my automation project">
+      <option name="closed" value="true" />
+      <created>1707239744442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707239744442</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my automation project" />
+    <option name="LAST_COMMIT_MESSAGE" value="my automation project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -139,9 +290,17 @@
           <line>23</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson7/HomeWork/Person.java</url>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="30" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="32" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

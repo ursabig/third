@@ -5,7 +5,7 @@
 
 package Lesson7.HomeWork;
 
-public class HomeWork7 {
+public class HomeWorkTask1 {
     public static void main(String[] args) {
 
         Person p1 = new Person();
