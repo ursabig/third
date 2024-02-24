@@ -1,4 +1,4 @@
-package sasha;
+package TaskBySasha.sasha;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-// печатаем пирамидки в одну и другую сторону
+package Lesson5;// печатаем пирамидки в одну и другую сторону
 
 public class HW5_2 {
     public static void main(String[] args) {

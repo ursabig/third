@@ -6,51 +6,46 @@
   <component name="ChangeListManager">
     <list default="true" id="e5a670d3-7345-4152-be09-e98d1a4952ec" name="Changes" comment="my automation project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW5_1_1_SumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_1_SumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW5_1_2_MaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_2_MaxValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW5_1_4_Avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_4_Avg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW5_1_5_SumElementsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_5_SumElementsArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW5_1_6_MaxValue2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_6_MaxValue2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW5_1_7CountElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_1_7CountElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW5_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork4_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork6Extra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6Extra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork6_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork6_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork6_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork6_2Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork6_2Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkCodeWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkCodeWars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkCodeWarsCountingShips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkCodeWarsCountingShips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkCodeWarsSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkCodeWarsSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5_2dArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5_2dArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson6_2Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6_2Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/HomeWorkTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Salary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/HomeWork/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/HomeWork/Sex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/One/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/One/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/One/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/One/Apartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/One/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/One/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/Two/Blin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Two/Blin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson7/Two/Kachalka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Two/Kachalka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/TestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Aitishnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Aitishnik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Assessment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Assessment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/assesment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/assesment/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sasha/Sasha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sasha/Sasha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sasha/SashaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sasha/SashaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third.iml" beforeDir="false" afterPath="$PROJECT_DIR$/third.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Lesson2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/HomeWork3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/HomeWork3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/HomeWork3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/HomeWork3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/HomeWork3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/HomeWork3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Lesson3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork4_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork4_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork4_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/HomeWork4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/HomeWork4_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4/Lesson4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4/Lesson4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HW5_1_1_SumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HW5_1_1_SumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HW5_1_2_MaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HW5_1_2_MaxValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HW5_1_4_Avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HW5_1_4_Avg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HW5_1_5_SumElementsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HW5_1_5_SumElementsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HW5_1_6_MaxValue2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HW5_1_6_MaxValue2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HW5_1_7CountElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HW5_1_7CountElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/HW5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HW5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/Lesson5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/Lesson5_2dArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/Lesson5_2dArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWork6Extra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork6Extra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWork6_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork6_1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWork6_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork6_1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWork6_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork6_1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWork6_2Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWork6_2Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWorkCodeWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWorkCodeWars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWorkCodeWarsCountingShips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWorkCodeWarsCountingShips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/HomeWorkCodeWarsSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/HomeWorkCodeWarsSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/Lesson6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/Lesson6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson6/Lesson6_2Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson6/Lesson6_2Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/Lesson7_One/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7_One/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/Lesson7_One/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7_One/Apartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/Lesson7_One/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7_One/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/Lesson7_Two/Blin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7_Two/Blin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson7/Lesson7_Two/Kachalka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson7/Lesson7_Two/Kachalka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainHelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/sasha/Sasha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/sasha/Sasha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskBySasha/sasha/SashaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskBySasha/sasha/SashaMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +281,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HomeWork3_3.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson3/HomeWork3_3.java</url>
           <line>23</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

@@ -1,3 +1,5 @@
+package Lesson6;
+
 import java.lang.reflect.Array;
 
 public class HomeWorkCodeWarsSecond {

@@ -1,4 +1,4 @@
-package Lesson7.One;
+package Lesson7.Lesson7_One;
 
 public class Apartment {
 

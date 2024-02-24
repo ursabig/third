@@ -1,3 +1,5 @@
+package Lesson6;
+
 public class HomeWorkCodeWars {
     public static void main(String[] args) {
         System.out.println(isLove(16, 47));
@@ -8,7 +10,7 @@ public class HomeWorkCodeWars {
         }
      }
 
-//        public class HomeWorkCodeWars {
+//        public class Lesson6.HomeWorkCodeWars {
 //            public static void main(String[] args) {
 //                System.out.println(isLove(41, 40));
 //            }

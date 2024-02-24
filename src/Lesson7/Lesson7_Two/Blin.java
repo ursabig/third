@@ -1,4 +1,4 @@
-package Lesson7.Two;
+package Lesson7.Lesson7_Two;
 
 public class Blin {
     int min;

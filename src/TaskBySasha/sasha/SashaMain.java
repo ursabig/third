@@ -1,4 +1,4 @@
-package sasha;
+package TaskBySasha.sasha;
 
 public class SashaMain {
 
