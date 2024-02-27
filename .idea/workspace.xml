@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a670d3-7345-4152-be09-e98d1a4952ec" name="Changes" comment="my automation project">
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Lesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/UserLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/MonthUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/Months.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson9/homework/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson9/homework/Month.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,8 @@
     "Application.HW5_1_6_MaxValue2DArray.executor": "Run",
     "Application.HW5_1_7CountElements.executor": "Run",
     "Application.HW5_2.executor": "Run",
+    "Application.HomeWork1.executor": "Run",
+    "Application.HomeWork2.executor": "Run",
     "Application.HomeWork4.executor": "Run",
     "Application.HomeWork4_1.executor": "Run",
     "Application.HomeWork4_2.executor": "Run",
@@ -119,13 +119,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="HomeWorkTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeWork.HomeWorkTask2" />
+  <component name="RunManager" selected="Application.HomeWork2">
+    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.homework.HomeWork1" />
       <module name="third" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson7.HomeWork.*" />
+          <option name="PATTERN" value="Lesson9.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWorkTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson7.HomeWork.HomeWorkTask3" />
+    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.homework.HomeWork2" />
       <module name="third" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson7.HomeWork.*" />
+          <option name="PATTERN" value="Lesson9.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork2" />
+        <item itemvalue="Application.HomeWork1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Lesson" />
         <item itemvalue="Application.TaskBySasha.assesment.Main" />
-        <item itemvalue="Application.HomeWorkTask3" />
-        <item itemvalue="Application.HomeWorkTask2" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707239744442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="my automation project">
+      <option name="closed" value="true" />
+      <created>1708980211976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708980211976</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
