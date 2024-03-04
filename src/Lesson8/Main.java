@@ -8,5 +8,6 @@ public class Main {
 
         worker.getAge();
         System.out.println(worker.getName());
+
     }
 }

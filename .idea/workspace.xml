@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5a670d3-7345-4152-be09-e98d1a4952ec" name="Changes" comment="my automation project">
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/MonthUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/HomeWork/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/HomeWork/Lesson10HomeWorkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/HomeWork/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/Lesson/Gentleman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/Lesson/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/Lesson/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson10/Lesson/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson9/homework/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskBySasha/extend/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskBySasha/extend/ExtendRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskBySasha/extend/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskBySasha/extend/Trolley.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskBySasha/extend/UtilMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrainingCodeWars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrainingCodeWars/ReturningStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson9/homework/HomeWork1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson9/homework/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson9/homework/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +69,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExtendRunner.executor": "Run",
     "Application.First.executor": "Run",
     "Application.HW5_1_2_MaxValue.executor": "Run",
     "Application.HW5_1_6_MaxValue2DArray.executor": "Run",
@@ -64,6 +77,7 @@
     "Application.HW5_2.executor": "Run",
     "Application.HomeWork1.executor": "Run",
     "Application.HomeWork2.executor": "Run",
+    "Application.HomeWork3.executor": "Debug",
     "Application.HomeWork4.executor": "Run",
     "Application.HomeWork4_1.executor": "Run",
     "Application.HomeWork4_2.executor": "Run",
@@ -89,6 +103,8 @@
     "Application.HomeWorkTask3.executor": "Run",
     "Application.Kachalka.executor": "Run",
     "Application.Lesson.executor": "Run",
+    "Application.Lesson10HomeWorkMain.executor": "Run",
+    "Application.Lesson10Main.executor": "Run",
     "Application.Lesson4.executor": "Run",
     "Application.Lesson5.executor": "Run",
     "Application.Lesson5_2dArrays.executor": "Run",
@@ -96,6 +112,8 @@
     "Application.Lesson6_1.executor": "Run",
     "Application.Lesson6_2.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NumberRunner.executor": "Run",
+    "Application.ReturningStrings.executor": "Run",
     "Application.SashaMain.executor": "Run",
     "Application.SecondHW.executor": "Run",
     "Application.TaskBySasha.assesment.Main.executor": "Run",
@@ -119,9 +137,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeWork2">
-    <configuration name="HomeWork1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.homework.HomeWork1" />
+  <component name="RunManager" selected="Application.Lesson10HomeWorkMain">
+    <configuration name="ExtendRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskBySasha.extend.ExtendRunner" />
+      <module name="third" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaskBySasha.extend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.homework.HomeWork3" />
       <module name="third" />
       <extension name="coverage">
         <pattern>
@@ -133,25 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.homework.HomeWork2" />
+    <configuration name="Lesson10HomeWorkMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson10.HomeWork.Lesson10HomeWorkMain" />
       <module name="third" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson9.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson9.Lesson" />
-      <module name="third" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson9.*" />
+          <option name="PATTERN" value="Lesson10.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskBySasha.assesment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskBySasha.assesment.Main" />
+    <configuration name="NumberRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskBySasha.uniqNumbers.NumberRunner" />
       <module name="third" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TaskBySasha.assesment.*" />
+          <option name="PATTERN" value="TaskBySasha.uniqNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeWork2" />
-        <item itemvalue="Application.HomeWork1" />
+        <item itemvalue="Application.Lesson10HomeWorkMain" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Lesson" />
-        <item itemvalue="Application.TaskBySasha.assesment.Main" />
+        <item itemvalue="Application.NumberRunner" />
+        <item itemvalue="Application.ExtendRunner" />
+        <item itemvalue="Application.HomeWork3" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708980211976</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="my automation project">
+      <option name="closed" value="true" />
+      <created>1709064762731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709064762732</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +285,21 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Lesson7/HomeWork/Person.java</url>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson9/homework/Manager.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson9/homework/Manager.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson9/homework/Manager.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
